@@ -54,6 +54,13 @@ Construo sistemas de automacao e agentes de IA para **clinicas, academias e stud
 
 ---
 
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimitrearaujo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitrearaujo&layout=compact&theme=dark&hide_border=true)
+
+---
+
 ## Contato
 
 - WhatsApp: [+55 85 98826-1397](https://wa.me/5585988261397)

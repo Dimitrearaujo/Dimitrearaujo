@@ -45,6 +45,9 @@ Construo sistemas de automacao e agentes de IA para **clinicas, academias e stud
 |---|---|---|
 | [lead-machine-lite](https://github.com/Dimitrearaujo/lead-machine-lite) | LP publica + diagnostico empresarial automatico via Claude API | Python, FastAPI, Cloudflare Tunnel |
 | [whatsapp-prospecting-engine](https://github.com/Dimitrearaujo/whatsapp-prospecting-engine) | Motor de prospeccao outbound com rate limiter anti-bloqueio | Python, Evolution API, Resend, SQLite |
+| [agente-clinica-whatsapp](https://github.com/Dimitrearaujo/agente-clinica-whatsapp) | 5 agentes WhatsApp para clinicas: recepcionista 24/7, confirmador, resgate, NPS e painel da gestora | Python, FastAPI, Claude API, SQLite |
+| [rag-python-documentos](https://github.com/Dimitrearaujo/rag-python-documentos) | RAG em Python puro — PDF ingest, embeddings, SQLite vectorstore, cosine similarity, Claude generator | Python, OpenAI Embeddings, Claude API |
+| [multi-agent-vendas-python](https://github.com/Dimitrearaujo/multi-agent-vendas-python) | 5 agentes de vendas: diagnostico, qualificacao BANT, analise de call, proposta e simulador de objecoes | Python, Claude API |
 | [n8n-agente-whatsapp-enterprise](https://github.com/Dimitrearaujo/n8n-agente-whatsapp-enterprise) | Agente WhatsApp com RAG, Redis e escalonamento humano | n8n, OpenRouter, Supabase |
 | [n8n-clinica-multiagentes](https://github.com/Dimitrearaujo/n8n-clinica-multiagentes) | Secretaria virtual para clinica com 3 medicos e CRM | n8n, OpenAI |
 | [n8n-sistema-delivery-ia](https://github.com/Dimitrearaujo/n8n-sistema-delivery-ia) | Sistema completo de delivery com 7 agentes de IA | n8n, OpenAI, Airtable, Supabase |

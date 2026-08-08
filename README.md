@@ -1,4 +1,69 @@
-🇧🇷 [Português](#português) | 🇺🇸 [English](#english)
+🇺🇸 [English](#english) | 🇧🇷 [Português](#português)
+
+---
+
+## English
+
+# Hi, I'm Dimitre Araújo
+
+**Founder of CD Tech** — AI Automation & Agents for Small Businesses | Fortaleza, Brazil
+
+---
+
+### What I do
+
+I build AI automation systems and agents for **clinics, gyms, and studios** — cutting operational costs and increasing revenue without growing the team.
+
+- **24/7 automated customer service** — WhatsApp bots, scheduling, appointment reminders, patient re-engagement
+- **AI-powered lead capture** — landing pages + automated business diagnosis via LLM
+- **Outbound prospecting** — lead scraping + multi-channel outreach with anti-block rate limiter
+- **Sales agents** — call analysis, objection simulator, quote generator
+
+---
+
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D4A27F?style=flat&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Evolution API](https://img.shields.io/badge/Evolution%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+
+---
+
+### Industries served
+
+| Segment | Automations |
+|---|---|
+| Healthcare clinics (dental, vet, aesthetic) | 24/7 receptionist, appointment confirmation, no-show recovery, Google review collection |
+| Gyms & Studios | Lead qualification, student reactivation, automated billing |
+| Small B2B businesses | Outbound prospecting, BANT sales agent, lead diagnosis |
+
+---
+
+### Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [lead-machine-lite](https://github.com/Dimitrearaujo/lead-machine-lite) | Public LP + automated business diagnosis via Claude API | Python, FastAPI, Cloudflare Tunnel |
+| [whatsapp-prospecting-engine](https://github.com/Dimitrearaujo/whatsapp-prospecting-engine) | Outbound prospecting engine with anti-block rate limiter | Python, Evolution API, Resend, SQLite |
+| [agente-clinica-whatsapp](https://github.com/Dimitrearaujo/agente-clinica-whatsapp) | 5 WhatsApp agents for clinics: 24/7 receptionist, confirmation, re-engagement, NPS and manager dashboard | Python, FastAPI, Claude API, SQLite |
+| [rag-python-documentos](https://github.com/Dimitrearaujo/rag-python-documentos) | Pure Python RAG — PDF ingestion, embeddings, SQLite vectorstore, cosine similarity, Claude generator | Python, OpenAI Embeddings, Claude API |
+| [multi-agent-vendas-python](https://github.com/Dimitrearaujo/multi-agent-vendas-python) | 5 sales agents: business diagnosis, BANT qualification, call analysis, proposal and objection simulator | Python, Claude API |
+| [n8n-agente-whatsapp-enterprise](https://github.com/Dimitrearaujo/n8n-agente-whatsapp-enterprise) | Enterprise WhatsApp agent with RAG, Redis cache and human escalation | n8n, OpenRouter, Supabase |
+| [n8n-clinica-multiagentes](https://github.com/Dimitrearaujo/n8n-clinica-multiagentes) | Virtual medical secretary with 3 specialist doctors and CRM | n8n, OpenAI |
+| [n8n-sistema-delivery-ia](https://github.com/Dimitrearaujo/n8n-sistema-delivery-ia) | Full delivery system with 7 AI agents | n8n, OpenAI, Airtable, Supabase |
+
+---
+
+### Contact
+
+- WhatsApp: [+55 85 98826-1397](https://wa.me/5585988261397)
+- Email: dimitrearaujo@gmail.com
+- LinkedIn: [linkedin.com/in/dimitrearaújo](https://www.linkedin.com/in/dimitrear%C3%BAjo/)
 
 ---
 
@@ -70,68 +135,3 @@ Construo sistemas de automação e agentes de IA para **clínicas, academias e s
 
 - WhatsApp: [+55 85 98826-1397](https://wa.me/5585988261397)
 - Email: dimitrearaujo@gmail.com
-
----
-
-## English
-
-# Hi, I'm Dimitre Araújo
-
-**Founder of CD Tech** — AI Automation & Agents for Small Businesses | Fortaleza, Brazil
-
----
-
-### What I do
-
-I build AI automation systems and agents for **clinics, gyms, and studios** — cutting operational costs and increasing revenue without growing the team.
-
-- **24/7 automated customer service** — WhatsApp bots, scheduling, appointment reminders, patient re-engagement
-- **AI-powered lead capture** — landing pages + automated business diagnosis via LLM
-- **Outbound prospecting** — lead scraping + multi-channel outreach with anti-block rate limiter
-- **Sales agents** — call analysis, objection simulator, quote generator
-
----
-
-### Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude%20API-D4A27F?style=flat&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Evolution API](https://img.shields.io/badge/Evolution%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-
----
-
-### Industries served
-
-| Segment | Automations |
-|---|---|
-| Healthcare clinics (dental, vet, aesthetic) | 24/7 receptionist, appointment confirmation, no-show recovery, Google review collection |
-| Gyms & Studios | Lead qualification, student reactivation, automated billing |
-| Small B2B businesses | Outbound prospecting, BANT sales agent, lead diagnosis |
-
----
-
-### Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [lead-machine-lite](https://github.com/Dimitrearaujo/lead-machine-lite) | Public LP + automated business diagnosis via Claude API | Python, FastAPI, Cloudflare Tunnel |
-| [whatsapp-prospecting-engine](https://github.com/Dimitrearaujo/whatsapp-prospecting-engine) | Outbound prospecting engine with anti-block rate limiter | Python, Evolution API, Resend, SQLite |
-| [agente-clinica-whatsapp](https://github.com/Dimitrearaujo/agente-clinica-whatsapp) | 5 WhatsApp agents for clinics: 24/7 receptionist, confirmation, re-engagement, NPS and manager dashboard | Python, FastAPI, Claude API, SQLite |
-| [rag-python-documentos](https://github.com/Dimitrearaujo/rag-python-documentos) | Pure Python RAG — PDF ingestion, embeddings, SQLite vectorstore, cosine similarity, Claude generator | Python, OpenAI Embeddings, Claude API |
-| [multi-agent-vendas-python](https://github.com/Dimitrearaujo/multi-agent-vendas-python) | 5 sales agents: business diagnosis, BANT qualification, call analysis, proposal and objection simulator | Python, Claude API |
-| [n8n-agente-whatsapp-enterprise](https://github.com/Dimitrearaujo/n8n-agente-whatsapp-enterprise) | Enterprise WhatsApp agent with RAG, Redis cache and human escalation | n8n, OpenRouter, Supabase |
-| [n8n-clinica-multiagentes](https://github.com/Dimitrearaujo/n8n-clinica-multiagentes) | Virtual medical secretary with 3 specialist doctors and CRM | n8n, OpenAI |
-| [n8n-sistema-delivery-ia](https://github.com/Dimitrearaujo/n8n-sistema-delivery-ia) | Full delivery system with 7 AI agents | n8n, OpenAI, Airtable, Supabase |
-
----
-
-### Contact
-
-- WhatsApp: [+55 85 98826-1397](https://wa.me/5585988261397)
-- Email: dimitrearaujo@gmail.com
-- LinkedIn: [linkedin.com/in/dimitrearaújo](https://www.linkedin.com/in/dimitrear%C3%BAjo/)
